@@ -1,5 +1,7 @@
-# project_template
-python project template
+# Python Project Template
+
+This template is based on the [DSSG machine learning pipeline](https://github.com/dssg/hitchhikers-guide/tree/master/sources/curriculum/0_before_you_start/pipelines-and-project-workflow). 
+
 ```
 ├── LICENSE
 ├── README.md          <- The top-level README for developers using this project.
