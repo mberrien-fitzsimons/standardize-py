@@ -57,6 +57,6 @@ This template is based on the [DSSG machine learning pipeline](https://github.co
     ├── d06_reporting  <- Scripts to produce reporting tables
     │   └── create_rpt_payment_summary.py
     │
-    └── d06_visualisation<- Scripts to create frequently used plots
+    └── d07_visualisation<- Scripts to create frequently used plots
         └── visualise_patient_journey.py
 ```
