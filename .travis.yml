@@ -1,0 +1,11 @@
+dist: xenial
+language: python
+python:
+  - "3.7.1"
+install:
+  - pip install -r requirements.txt
+  - pip install pandas
+  # - pip install glob
+  # - pip install functools
+script:
+  - pytest
